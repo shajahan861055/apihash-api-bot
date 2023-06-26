@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/shajahan861055/apihash-api-bot",
   "success_url": "https://telegram.dog/ScrapKazeBot",
-  "website": "https://github.com/PunyaChael/MyTelegramOrg",
+  "website": "https://github.com/shajahan861055/apihash-api-bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
